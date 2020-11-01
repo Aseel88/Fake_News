@@ -16,10 +16,10 @@ And finally, open the project in your preferred browser! :)
 <<<<<<< HEAD
 Aseel Mohamad:
 - I liked the layout ,colors and fonts. Nice Design.
-- `index.php:14` Remember to think about<h1> as another alternative to <p>.
-- `index.php:17-21 ` Think about<nav> and <ul> as another alternatives to <div class="info"> .
-- `index.php`  Good use of functions.
-- `media.css:1`  think about (max-width:700px), maybe it will work better for mobile phones if the (max-width:500-560px) or think to add :
+- `index.php:14`  -Remember to think about<h1> as another alternative to <p>.
+- `index.php:17-21`  -Think about<nav> and <ul> as another alternatives to <div class="info"> .
+- `index.php`   -Good use of functions.
+- `media.css:1`   -think about (max-width:700px), maybe it will work better for mobile phones if the (max-width:500-560px) or think to add :
 ```css
 body{
     align-items: center;
